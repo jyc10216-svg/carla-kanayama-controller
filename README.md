@@ -30,6 +30,12 @@ Reference trajectory vs actual vehicle trajectory
 
 The blue line represents the reference trajectory and the orange line represents the vehicle trajectory.
 
+## Repository Structure
+
+src/        Kanayama controller implementation  
+data/       reference trajectory (CSV)  
+result/     trajectory tracking result   
+
 ## Team:
 - Jun Young Choi
 - Hyeongju Yang
